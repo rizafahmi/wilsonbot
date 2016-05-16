@@ -31,4 +31,4 @@ use Mix.Config
 #
 
 config :wilsonbot, Wilsonbot.Slack,
-  token: "xoxb-43194117958-7777jDaIEOSpq5U5Aeb2sScr"
+  token: ""
