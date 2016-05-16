@@ -28,3 +28,7 @@ use Mix.Config
 # here (which is why it is important to import them last).
 #
 #     import_config "#{Mix.env}.exs"
+#
+
+config :wilsonbot, Wilsonbot.Slack,
+  token: "xoxb-43194117958-7777jDaIEOSpq5U5Aeb2sScr"
